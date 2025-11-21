@@ -18,6 +18,23 @@ The logo at the top of the page was an old custom made one I created not long af
 
 ![Old Header](Images/oldPortfolioScreenshots/old_header.png)
 
+Below that were enlarged thumbnails that served as anchor links to parts of the page that contained more information about whatever project the images were associated with. 
+
+![Old Thumbnails](Images/oldPortfolioScreenshots/old_anchor_link_thumbnails.png)
+
+The thumbnails were also hoverable and would show text with a short description of what the project was about. Below shows what the "LandIt" page thumbnail looked like when hovered over.
+
+![Old Thumbnails](Images/oldPortfolioScreenshots/old_anchor_link_thumbnails_hover.png)
+
+Each further detailed section included: 
+ - a title
+ - a default image
+ - a slider that allowed the user to view screenshots of multiple parts of the site
+ - a longer description, a link to the site if it was live
+ - and a link back to the top of the site
+
+ ![Old Section](Images/oldPortfolioScreenshots/old_section_example.png)
+
 
 
  
