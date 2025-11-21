@@ -16,7 +16,7 @@ Tools used included:
 
 The logo at the top of the page was an old custom made one I created not long after getting out of college. The header also included links to an interactive resume (buttons were used to show text), my github profile and my LinkedIn page.
 
-[Old Header](Images/oldPortfolioScreenshots/old_header.png)
+![Old Header](Images/oldPortfolioScreenshots/old_header.png)
 
 
 
