@@ -1,5 +1,18 @@
 # Personal Portfolio site
 
+## Current Site Updates (2025 - full scale redesign)
+Updates include:
+- Making site more secure by moving from http to https (completed)
+- Converting static site to a react project (in progress)
+- Updating content to include experience (old projects will be removed - planned)
+- Design update (planned)
+
+## Second Portfolio Update (2018)
+Portfolio was moved off of the original host site and instead hosted and deployed by github pages.
+
+## Portfolio Update (2016)
+The jquery woothemes slider was replaces by the Unslider because the former was deprecated.
+
 ## Original Site details (released Fall 2014)
 Description:
 This was initially a website created at the very beginning of my programming journey (before I joined General Assembly's Web Developement Immersive Program and before I started working professionally in software engineering) in order to show case my then, brand new programing skills. 
