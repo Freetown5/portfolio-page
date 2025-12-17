@@ -88,29 +88,7 @@ function OldPage() {
                         <h1><a id="covercreatemain">
                         CoverCreate
                         </a></h1>
-                            <div className="unslider">
-                                <ul className="slides">
-                                    <li>
-                                        <img src="./oldSiteImages/CC/CC1.png" className="cc-sized" />
-                                    </li>
-
-                                    <li>
-                                        <img src="./oldSiteImages/CC/CC2.png" className="cc-sized" />
-                                    </li>
-
-                                    <li>
-                                        <img src="./oldSiteImages/CC/CC3.png" className="cc-sized" />
-                                    </li>
-
-                                    <li>
-                                        <img src="./oldSiteImages/CC/CC4.png" className="cc-sized" />
-                                    </li>
-
-                                    <li>
-                                        <img src="./oldSiteImages/CC/CC5.png" className="cc-sized"/>
-                                    </li>
-                                </ul>
-                            </div>
+                        <img src="./oldSiteImages/CC/CC1.png" className="cc-sized" />
                         <p className="summation">This was my final project for the Web Development Immersive Program I recently completed. It's a web app (created mainly in Ruby on Rails) that functions as an editable cover letter template. A user can input their information the company they are applying to's information and other relevant info, save it to the server and the upload it as a pdf to their computer. They can also go back and edit it. Stay tuned for future iterations.</p>
                         <h2 className="live-button"><a href="https://covercreate.herokuapp.com/">This site is live</a></h2>
                         <a href="#top"><p className="back">Back to Top</p></a>
@@ -122,29 +100,7 @@ function OldPage() {
                 <div className="PC">
                     <h1><a id="policonnectmain">
                     PoliConnect</a></h1>
-                        <div className="unslider">
-                            <ul className="slides">
-                                <li>
-                                    <img src="./oldSiteImages/PC/PoliC1.png" className="pc-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="./oldSiteImages/PC/PoliC2.png" className="pc-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="./oldSiteImages/PC/PoliC3.png" className="pc-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="./oldSiteImages/PC/PoliC4.png" className="pc-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="./oldSiteImages/PC/PoliC5.png" className="pc-sized" />
-                                </li>
-                            </ul>
-                        </div>
+                    <img src="./oldSiteImages/PC/PoliC1.png" className="pc-sized" />
                     <p className="summation">This is a website I created in collaboration with 4 other Web Development Immersive students, and intern at the Wilson Center and a Computer Science student at GW University at D.C. Science Hack Day. It's a web app meant to help policy makers and experts communicate with each other about certain topics with less red tape. It won the Policy Award and is being picked up by Amazon Web Services. We are also scheduled to present it to actual policy makers in the future</p>
                     <a href="#top"><p className="back">Back to Top</p></a>
                 </div>
@@ -155,29 +111,7 @@ function OldPage() {
                     <h1><a id="techleapmain">
                     TechLeap
                     </a></h1>
-                        <div className="unslider">
-                            <ul className="slides">
-                                <li>
-                                <img src="./oldSiteImages/TL/TL1.jpg.png" className="tl-sized" />
-                                </li>
-
-                                <li>
-                                <img src="./oldSiteImages/TL/TL2.png" className="tl-sized" />
-                                </li>
-
-                                <li>
-                                <img src="./oldSiteImages/TL/TL3.png" className="tl-sized" />
-                                </li>
-
-                                <li>
-                                <img src="./oldSiteImages/TL/TL4.png" className="tl-sized" />
-                                </li>
-
-                                <li>
-                                <img src="./oldSiteImages/TL/TL5.png" className="tl-sized" />
-                                </li>
-                            </ul>
-                        </div>
+                    <img src="./oldSiteImages/TL/TL1.jpg.png" className="tl-sized" />
                     <p className="summation">This is a project I worked on in collaboration with 2 other Web Development Immersive students and 2 User Experience students at General Assembly. It was an assignment developed by the USAToday tech team in Arlington, Virginia specifically for GA students. The purpose of the app is to attract future tech workers by showing them how their current skills and interests could benefit them in one of several different tech fields. It includes a quiz, a profile section and a results section.</p>
                     <h2 className="live-button"><a href="http://learntech.herokuapp.com/">This site is live</a></h2>
                     <a href="#top"><p className="back">Back to Top</p></a>
@@ -189,34 +123,7 @@ function OldPage() {
                     <h1><a id="interviewappmain">
                     InterviewApp
                     </a></h1>
-                        <div className="unslider">
-                            <ul className="slides">
-                                <li>
-                                    <img src="Images/IA/IA1.png" className="ia-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/IA/IA2.png" className="ia-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/IA/IA3.png" className="ia-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/IA/IA4.png" className="ia-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/IA/IA5.png" className="ia-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/IA/IA6.png" className="ia-sized" />
-                                </li>
-                            </ul>
-                        </div>
-
+                    <img src="./oldSiteImages/IA1.png" className="ia-sized" />
                     <p className="summation">This was the second to last project I did during General Assembly's Web Development Immersive Program. It was done mainly in Ruby on Rails and is the first project I did on my own that went live. The purpose of this web app is to help job seekers organize their interviews and keep track of information associated with them including points of contact, actual interviewers and dates and times or interviews. I eventually plan to make it so that the app sends alerts for interviews via text in the future. Stay tuned.</p>
                     <h2 className="live-button"><a href="interview-schedule.herokuapp.com">This site is live</a></h2>
                     <a href="#top"><p className="back">Back to Top</p></a>
@@ -228,25 +135,7 @@ function OldPage() {
                     <h1><a id="talkwithateengirlmain">
                     Talk with a Teen Girl
                     </a></h1>
-                        <div className="unslider">
-                            <ul className="slides">
-                                <li>
-                                    <img src="Images/TwTG/TwTG1.jpg" className="perfectly-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/TwTG/TwTG2.jpg" className="perfectly-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/TwTG/TwTG3.jpg" className="perfectly-sized" />
-                                </li>
-
-                                <li>
-                                    <img src="Images/TwTG/TwTG4.jpg" className="perfectly-sized" />
-                                </li>
-                            </ul>
-                        </div>
+                    <img src="./oldSiteImages/TwTG1.jpg" className="perfectly-sized" />
                     <p className="summation">The screenshots here are from a website I created in collaboration with Sarah Kleinman from BraveUX for the Code for Crittenton Hackathon sponsored by Girl Dev It D.C.
                     We didn't win but we scored 100 on Design and 90 on Functionality</p>
 
@@ -259,29 +148,7 @@ function OldPage() {
                     <h1><a id="tortillacafemain">
                     Tortilla Cafe
                     </a></h1>
-                        <div className="unslider">
-                        <ul className="slides">
-                            <li>
-                                <img src="Images/Tortilla/Tortilla1.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Tortilla/Tortilla2.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Tortilla/Tortilla3.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Tortilla/Tortilla4.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Tortilla/Tortilla5.jpg" className="perfectly-sized" />
-                            </li>
-                        </ul>
-                        </div>
+                    <img src="./oldSiteImages/Tortilla1.jpg" className="perfectly-sized" />
                     <p className="summation">This was a redesign of the Tortilla Cafe's
                     website. The sites actual color scheme is black and yellow. I thought a more festive theme would better fit the Salvadorian heritage of the cafe so I decided to create a website that reflected this better as practice. I also incorporated a fixed header into it.
                     </p>
@@ -294,29 +161,7 @@ function OldPage() {
                     <h1><a id="sawmain">
                     Songwriter's Association of Washington(SAW)
                     </a></h1>
-                        <div className="unslider">
-                        <ul className="slides">
-                            <li>
-                                <img src="Images/Saw/Saw1.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Saw/Saw2.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Saw/Saw3.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Saw/Saw4.jpg" className="perfectly-sized" />
-                            </li>
-
-                            <li>
-                                <img src="Images/Saw/Saw5.jpg" className="perfectly-sized" />
-                            </li>
-                        </ul>
-                        </div>
+                    <img src="./oldSiteImages/Saw1.jpg" className="perfectly-sized" />
                     <p className="summation">The Songwriter's Association of Music website was grossly underdeveloped when I first saw it. It was made up of mostly completely unstyled headers,paragraphs etc. with a few pictures and some broken links added in. It was difficult to navigate and had plenty of hard to find pages hidden in it. It has since been redesigned professionally and although it looks better, it is even more difficult to get information from than before. For this redesign, I decided on a basic beige color scheme to go with the only sheet music background. This website also has a fixed header.</p>
                     <a href="#top"><p className="back">Back to Top</p></a>
                 </div>
