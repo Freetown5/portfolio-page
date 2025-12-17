@@ -91,23 +91,23 @@ function OldPage() {
                             <div className="unslider">
                                 <ul className="slides">
                                     <li>
-                                        <img src="Images/CC/CC1.png" className="cc-sized" />
+                                        <img src="./oldSiteImages/CC/CC1.png" className="cc-sized" />
                                     </li>
 
                                     <li>
-                                        <img src="Images/CC/CC2.png" className="cc-sized" />
+                                        <img src="./oldSiteImages/CC/CC2.png" className="cc-sized" />
                                     </li>
 
                                     <li>
-                                        <img src="Images/CC/CC3.png" className="cc-sized" />
+                                        <img src="./oldSiteImages/CC/CC3.png" className="cc-sized" />
                                     </li>
 
                                     <li>
-                                        <img src="Images/CC/CC4.png" className="cc-sized" />
+                                        <img src="./oldSiteImages/CC/CC4.png" className="cc-sized" />
                                     </li>
 
                                     <li>
-                                        <img src="Images/CC/CC5.png" className="cc-sized"/>
+                                        <img src="./oldSiteImages/CC/CC5.png" className="cc-sized"/>
                                     </li>
                                 </ul>
                             </div>
@@ -125,23 +125,23 @@ function OldPage() {
                         <div className="unslider">
                             <ul className="slides">
                                 <li>
-                                    <img src="Images/PC/PoliC1.png" className="pc-sized" />
+                                    <img src="./oldSiteImages/PC/PoliC1.png" className="pc-sized" />
                                 </li>
 
                                 <li>
-                                    <img src="Images/PC/PoliC2.png" className="pc-sized" />
+                                    <img src="./oldSiteImages/PC/PoliC2.png" className="pc-sized" />
                                 </li>
 
                                 <li>
-                                    <img src="Images/PC/PoliC3.png" className="pc-sized" />
+                                    <img src="./oldSiteImages/PC/PoliC3.png" className="pc-sized" />
                                 </li>
 
                                 <li>
-                                    <img src="Images/PC/PoliC4.png" className="pc-sized" />
+                                    <img src="./oldSiteImages/PC/PoliC4.png" className="pc-sized" />
                                 </li>
 
                                 <li>
-                                    <img src="Images/PC/PoliC5.png" className="pc-sized" />
+                                    <img src="./oldSiteImages/PC/PoliC5.png" className="pc-sized" />
                                 </li>
                             </ul>
                         </div>
@@ -158,23 +158,23 @@ function OldPage() {
                         <div className="unslider">
                             <ul className="slides">
                                 <li>
-                                <img src="Images/TL/TL1.jpg.png" className="tl-sized" />
+                                <img src="./oldSiteImages/TL/TL1.jpg.png" className="tl-sized" />
                                 </li>
 
                                 <li>
-                                <img src="Images/TL/TL2.png" className="tl-sized" />
+                                <img src="./oldSiteImages/TL/TL2.png" className="tl-sized" />
                                 </li>
 
                                 <li>
-                                <img src="Images/TL/TL3.png" className="tl-sized" />
+                                <img src="./oldSiteImages/TL/TL3.png" className="tl-sized" />
                                 </li>
 
                                 <li>
-                                <img src="Images/TL/TL4.png" className="tl-sized" />
+                                <img src="./oldSiteImages/TL/TL4.png" className="tl-sized" />
                                 </li>
 
                                 <li>
-                                <img src="Images/TL/TL5.png" className="tl-sized" />
+                                <img src="./oldSiteImages/TL/TL5.png" className="tl-sized" />
                                 </li>
                             </ul>
                         </div>
