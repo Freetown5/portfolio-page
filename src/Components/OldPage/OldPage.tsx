@@ -88,7 +88,7 @@ function OldPage() {
                         <h1><a id="covercreatemain">
                         CoverCreate
                         </a></h1>
-                        <img src="./oldSiteImages/CC/CC1.png" className="cc-sized" />
+                        <img src="./oldSiteImages/CC1.png" className="cc-sized" />
                         <p className="summation">This was my final project for the Web Development Immersive Program I recently completed. It's a web app (created mainly in Ruby on Rails) that functions as an editable cover letter template. A user can input their information the company they are applying to's information and other relevant info, save it to the server and the upload it as a pdf to their computer. They can also go back and edit it. Stay tuned for future iterations.</p>
                         <h2 className="live-button"><a href="https://covercreate.herokuapp.com/">This site is live</a></h2>
                         <a href="#top"><p className="back">Back to Top</p></a>
@@ -100,7 +100,7 @@ function OldPage() {
                 <div className="PC">
                     <h1><a id="policonnectmain">
                     PoliConnect</a></h1>
-                    <img src="./oldSiteImages/PC/PoliC1.png" className="pc-sized" />
+                    <img src="./oldSiteImages/PoliC1.png" className="pc-sized" />
                     <p className="summation">This is a website I created in collaboration with 4 other Web Development Immersive students, and intern at the Wilson Center and a Computer Science student at GW University at D.C. Science Hack Day. It's a web app meant to help policy makers and experts communicate with each other about certain topics with less red tape. It won the Policy Award and is being picked up by Amazon Web Services. We are also scheduled to present it to actual policy makers in the future</p>
                     <a href="#top"><p className="back">Back to Top</p></a>
                 </div>
@@ -111,7 +111,7 @@ function OldPage() {
                     <h1><a id="techleapmain">
                     TechLeap
                     </a></h1>
-                    <img src="./oldSiteImages/TL/TL1.jpg.png" className="tl-sized" />
+                    <img src="./oldSiteImages/TL1.jpg.png" className="tl-sized" />
                     <p className="summation">This is a project I worked on in collaboration with 2 other Web Development Immersive students and 2 User Experience students at General Assembly. It was an assignment developed by the USAToday tech team in Arlington, Virginia specifically for GA students. The purpose of the app is to attract future tech workers by showing them how their current skills and interests could benefit them in one of several different tech fields. It includes a quiz, a profile section and a results section.</p>
                     <h2 className="live-button"><a href="http://learntech.herokuapp.com/">This site is live</a></h2>
                     <a href="#top"><p className="back">Back to Top</p></a>
