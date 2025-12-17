@@ -20,7 +20,7 @@ function OldPage() {
                 </div>
 
                 <a name="top">
-                    <img className="img-responsive" src="./double-line-logo-main.jpg" alt="logo" />
+                    <img className="img-responsive" src="./oldSiteImages/double-line-logo-main.jpg" alt="logo" />
                 </a>
 
                 <h2>Online Portfolio</h2>
@@ -28,44 +28,44 @@ function OldPage() {
             <div className="link-container">
                 <div className="row">
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/Covercreateface.png" alt="CoverCreate" />
+                        <img src="./oldSiteImages/covercreateface.png" alt="CoverCreate" />
                         <p className="description"><a href="#covercreatemain">A templating app that helps job seekers create cover letters</a></p>
                     </div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/PoliCface.png" alt="Policonnect" />
+                        <img src="./oldSiteImages/poliCface.png" alt="Policonnect" />
                         <p className="description"><a href="#policonnectmain">A DC Science Hackday site created to connect policy makers with academic experts</a></p>
                     </div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/Techleapface.jpg.png" alt="TechLeap" />
+                        <img src="./oldSiteImages/techleapface.jpg.png" alt="TechLeap" />
                         <p className="description"><a href="#techleapmain">A web app created to attract professionals to the world of tech</a></p>
                     </div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/Interviewappface.png" alt="Interview App" />
+                        <img src="./oldSiteImages/interviewappface.png" alt="Interview App" />
                         <p className="description"><a href="#interviewappmain">A web app that organizes interview information</a></p>
                     </div>
 
                     <div className="clearfix visable-md-block"></div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/TalkwithaTeenGirlface.jpg" alt="Talk With a Teen Girl Hackathon Entry" />
+                        <img src="./oldSiteImages/talkwithaTeenGirlface.jpg" alt="Talk With a Teen Girl Hackathon Entry" />
                         <p className="description"><a href="#talkwithateengirlmain">My Code for Crittenton Hackathon submission</a></p>
                     </div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/BFCface.jpg" alt="Baltimore Farmers Connect" />
+                        <img src="./oldSiteImages/bFCface.jpg" alt="Baltimore Farmers Connect" />
                         <p className="description"><a href="#bfcmain">My Baltimore hackathon website submission</a></p>
                     </div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/TortillaCafeface.jpg" alt="Tortilla Cafe Faux Redesign" />
+                        <img src="./oldSiteImages/tortillaCafeface.jpg" alt="Tortilla Cafe Faux Redesign" />
                         <p className="description"><a href="#tortillacafemain">A practice website based off of a real restaurant in Eastern Market</a></p>
                     </div>
 
                     <div className="col-md-3 col-sm-6 col-xs-12">
-                        <img src="Images/Faces/SAWface.jpg" alt="SAW Faux Redesign" />
+                        <img src="./oldSiteImages/sAWface.jpg" alt="SAW Faux Redesign" />
                         <p className="description"><a href="#sawmain">Another practice website based off of a non-profit organization based in D.C.</a></p>
                     </div>
                 </div>
