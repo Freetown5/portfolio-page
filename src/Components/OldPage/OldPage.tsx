@@ -18,9 +18,11 @@ function OldPage() {
                 <div className ="linkedin">
                     <a href="https://www.linkedin.com/pub/isatu-conteh/16/b03/490">LinkedIn</a>
                 </div>
+
                 <a name="top">
-                    <img className="img-responsive" src="Images/Logo/Double Line Logo 1(4)Beige.jpg" alt="logo" />
+                    <img className="img-responsive" src="./double-line-logo-main.jpg" alt="logo" />
                 </a>
+
                 <h2>Online Portfolio</h2>
             </div>
             <div className="link-container">
