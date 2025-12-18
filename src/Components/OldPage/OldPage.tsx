@@ -5,11 +5,6 @@ function OldPage() {
     return (
         <>
             <div className="jumbotron">
-                <div className="resume">
-                    <a href="OnlineResume.html">Resume</a>
-                </div>
-                <br/>
-                <br/>
                 <div className="ghub">
                     <a href="https://github.com/Freetown5">Github</a>
                 </div>
