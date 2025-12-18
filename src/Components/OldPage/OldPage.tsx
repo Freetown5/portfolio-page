@@ -165,4 +165,4 @@ function OldPage() {
     )
 }
 
-export default OldPage
+export default OldPage;
