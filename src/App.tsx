@@ -1,5 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
+import './App.css';
 import OldPage from './Components/OldPage/OldPage.tsx';
 import RedesignA from './Components/RedesignA/RedesignA.tsx';
 
