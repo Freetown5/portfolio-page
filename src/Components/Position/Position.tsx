@@ -46,15 +46,19 @@ const employmentData = [
     }
 ];
 
-const Position: React.FC<employmentEntry> = ({ company, position, dates, description}) => {
+const Position: React.FC<employmentEntry> = () => {
     return (
         <>
-            <h3>{ employmentData[0].company }</h3>
-            <ul>
-                <li>Position: {employmentData[0].position}</li>
-                <li>Dates of Employment: {employmentData[0].dates}</li>
-                <li>Company Description: {employmentData[0].description}</li>
-            </ul>
+            { Object.entries(employmentData).map(([key, value]) => (
+                <div key={key} className="my-8">
+                    <h3>{ value.company }</h3>
+                    <ul>
+                        <li>Position: { value.position }</li>
+                        <li>Dates of Employment: { value.dates }</li>
+                        <li>Company Description: { value.description }</li>
+                    </ul>
+                </div> 
+            ))}
 
             {/* <label htmlFor="rvoProjects">Products worked on:</label>
             <select name="rvoProjects" id="rvoProjects">
