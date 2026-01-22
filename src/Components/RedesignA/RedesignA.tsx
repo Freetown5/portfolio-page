@@ -1,21 +1,29 @@
 import React from "react";
 import "./RedesignA.css";
+import Position from "../Position/Position";
 
 function RedesignA() {
     return (
         <>
-            <div className="flex p-10">
-                <div className="w-1/2">
-                    <h1>Isa Conteh</h1>
-                    <p>(Prononuced: Eye-sah, not eee-sah)</p>
-                    <p><a href="">Github handle: Freetown5</a></p>
-                    <p><a href="">LinkedIn Profile</a></p>
-                    <h2>Elevator pitch:</h2>
-                    <p>Hi. (hand emoji here?). I'm a Software Engineer who specializes in UI Developement. I have primarily spent the last 10 years bridging the gap between product and/or design priorities and engineering or general implementation and have worked on many different types of products. Including but not limited to: general web applications, static pages, hybrid mobile applications, accelerated mobile pages, progressive web apps etc. I've also dabbled in backend development (especially python and node), using it to build web hooks and api's.</p>
+            <div className="flex text-white">
+                <div className="flex flex-col w-1/2 text-center h-screen p-8 bg-[#A11A68] justify-center">
+                    {/* <h1 className="text-[#C8831C]">Isa Conteh</h1> */}
+                    {/* <h1 className="leading-6">Isa Conteh</h1> */}
+                    <h1 className="leading-6">Isa</h1>
+                    <h1 className="leading-6">Conteh</h1>
+                    <p className="my-4">(Prononuced: Eye-sah, not eee-sah)</p>
+                    <div>
+                        {/* <p className="my-4">(Prononuced: Eye-sah, not eee-sah)</p> */}
+                        <p className="my-4"><a href="">Github handle: Freetown5</a></p>
+                        <p className="my-4"><a href="">LinkedIn Profile</a></p>
+                        {/* <h2>Elevator pitch:</h2> */}
+                        <p className="my-4">Hi. (hand emoji here?). I'm a Software Engineer who specializes in UI Developement. I have primarily spent the last 10 years bridging the gap between product and/or design priorities and engineering or general implementation and have worked on many different types of products. Including but not limited to: general web applications, static pages, hybrid mobile applications, accelerated mobile pages, progressive web apps etc. I've also dabbled in backend development (especially python and node), using it to build web hooks and api's.</p>
+                    </div>
                 </div>
-                <div className="w-1/2">
+                <div className="w-1/2 p-8 h-screen bg-[#109AAC]">
                     <h2>Experience</h2>
-                    <h3>Last Position Details-</h3>
+                    <Position />
+                    {/* <h3>Last Position Details-</h3>
                     <ul>
                         <li>Position: Senior Software Engineer (UI)</li>
                         <li>Company Name: RVO Health</li>
@@ -42,7 +50,7 @@ function RedesignA() {
                         <li>NgRx</li>
                         <li>Netlify</li>
                         <li>Contentful</li>
-                    </ul>
+                    </ul> */}
 
                 </div>
             </div>
