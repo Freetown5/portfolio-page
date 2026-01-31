@@ -9,8 +9,8 @@ function RedesignA() {
                 <div className="flex flex-col w-1/2 text-center h-screen p-8 bg-[#A11A68] justify-center">
                     {/* <h1 className="text-[#C8831C]">Isa Conteh</h1> */}
                     {/* <h1 className="leading-6">Isa Conteh</h1> */}
-                    <h1 className="leading-6">Isa</h1>
-                    <h1 className="leading-6">Conteh</h1>
+                    <h1 className="leading-6">&lt;&#47;&gt;<span className="first-name-font">Isa</span></h1>
+                    <h1 className="leading-6 last-name-font">Conteh</h1>
                     <p className="my-4">(Prononuced: Eye-sah, not eee-sah)</p>
                     <div>
                         {/* <p className="my-4">(Prononuced: Eye-sah, not eee-sah)</p> */}

@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+/* src/App.css */
+
+.first-name-font {
+    font-family: 'Mogra', serif;
+}
+
+.last-name-font {
+    font-family: 'Liter', serif;
+}
+
