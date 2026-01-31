@@ -10,7 +10,7 @@ interface employmentEntry {
 const employmentData = [
     {
         company: "RVO Health",
-        position: "Senior Software Engineer",
+        position: "Senior Software Engineer (UI)",
         dates: "October 2023 - November 2025",
         description: "A company built around helping users find information regarding their health. Their product portfolio includes companies like Healthline and products like Real appeal (used to help with weight loss) and Quit for Life (used to help users quit smoking)."
     },
@@ -46,16 +46,17 @@ const employmentData = [
     }
 ];
 
-const Position: React.FC<employmentEntry> = () => {
+// const Position: React.FC<employmentEntry> = () => {
+const Position: React.FC<{}> = () => {
     return (
         <>
             { Object.entries(employmentData).map(([key, value]) => (
                 <div key={key} className="my-8">
-                    <h3>{ value.company }</h3>
+                    <h3 className="text-2xl">{ value.company }</h3>
                     <ul>
-                        <li>Position: { value.position }</li>
-                        <li>Dates of Employment: { value.dates }</li>
-                        <li>Company Description: { value.description }</li>
+                        <li><span className="text-[#860D59] font-bold text-lg">Position:</span> { value.position }</li>
+                        <li><span className="text-[#860D59] font-bold text-lg">Dates of Employment:</span> { value.dates }</li>
+                        <li><span className="text-[#860D59] font-bold text-lg">Company Description:</span> { value.description }</li>
                     </ul>
                 </div> 
             ))}

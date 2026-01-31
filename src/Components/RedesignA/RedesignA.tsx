@@ -21,7 +21,8 @@ function RedesignA() {
                     </div>
                 </div>
                 <div className="w-1/2 p-8 h-screen bg-[#109AAC]">
-                    <h2>Experience</h2>
+                    {/* <h2 className="text-3xl">Experience</h2> */}
+                    <p className="text-5xl text-[#F4A21D]">Experience</p>
                     <Position />
                     {/* <h3>Last Position Details-</h3>
                     <ul>
