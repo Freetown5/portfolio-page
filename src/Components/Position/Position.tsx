@@ -18,31 +18,31 @@ const employmentData = [
         company: "Rally Health/Optum Digital",
         position: "Sr. Software Engineer (UI)",
         dates: "August 2021 - October 2023",
-        description: ""
+        description: "Rally health was a digital health and wellness company that was aquired by Optum Digital through UnitedHealth Group. Optum Digital, United Health Groups tech organization refers to the suite of digital tools, platforms and technology enabled services offered by Optum to simplify health care and increase patient engagement and streamline administrative tasks."
     },
     {
         company: "Inspire (ClinicaHealth)",
         position: "Front End Developer",
         dates: "December 2018 - July 2021",
-        description: ""
+        description: "Inspire is company that partners with health ailment focused organizations to provide online communication platforms and use it to inform research."
     },
     {
         company: "Capital One",
         position: "Software Engineer",
         dates: "February 2018 - November 2018",
-        description: ""
+        description: "A major (top 10) bank holding company known for it's extensive credit card operations, consumer banking, and commercial lending services."
     },
     {
         company: "The Washington Post",
         position: "Developer",
         dates: "October 2016 - February 2018",
-        description: ""
+        description: "A major daily newspaper knon for it's in-depth coverage of national politics and federal government affairs."
     },
     {
         company: "Speak Agent",
         position: "Web Developer",
         dates: "August 2015 - October 2016",
-        description: ""
+        description: "An educational tech (EdTech) company that produces popular digital, research-based supplemental programs for grades K-8 that improve academic language, literacy and concept mastery in math and science."
     }
 ];
 
