@@ -12,7 +12,7 @@ function RedesignA() {
                     text-center
                     pt-4 
                     md:p-8 
-                    md:w-1/2 
+                    md:w-1/3 
                     bg-[#A11A68]
                     justify-center
                 ">
@@ -32,7 +32,7 @@ function RedesignA() {
                         <button className="mb-4 md:hidden bg-[#109AAC] text-black p-2 font-bold rounded-xl">Quick Intro</button>
                     </div>
                 </div>
-                <div className="md:w-1/2 p-8 bg-[#109AAC] overflow-scroll">
+                <div className="md:w-2/3 p-8 bg-[#109AAC] overflow-scroll">
                     <p className="text-4xl md:text-5xl text-[#F4A21D]">Experience</p>
                     <Position />
                 </div>
