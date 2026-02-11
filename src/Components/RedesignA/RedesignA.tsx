@@ -12,7 +12,7 @@ function RedesignA() {
                     text-center
                     pt-4 
                     md:p-8 
-                    md:w-1/3 
+                    md:w-1/2 
                     bg-[#A11A68]
                     justify-center
                 ">
@@ -29,10 +29,10 @@ function RedesignA() {
                         <p className="my-2 md:my-4"><a href="https://www.linkedin.com/in/isatu-conteh-490b0316/">LinkedIn Profile</a></p>
                         <p className="my-2 md:my-4 hidden md:inline">Hi. &#128075;. I'm a Software Engineer who specializes in UI Developement. I have primarily spent the last 10 years bridging the gap between product and/or design priorities and engineering or general implementation and have worked on many different types of products. Including but not limited to: general web applications, static pages, hybrid mobile applications, accelerated mobile pages, progressive web apps etc. I've also dabbled in backend development (especially python and node), using it to build web hooks and api's.</p>
                         {/* Create modal/popup with intro and attach later */}
-                        <button className="mb-4 md:hidden bg-[#109AAC] text-black p-2 font-bold rounded-xl">Quick Intro</button>
+                        {/* <button className="mb-4 md:hidden bg-[#109AAC] text-black p-2 font-bold rounded-xl">Quick Intro</button> */}
                     </div>
                 </div>
-                <div className="md:w-2/3 p-8 bg-[#109AAC] overflow-scroll">
+                <div className="md:w-1/2 p-8 bg-[#109AAC] overflow-scroll">
                     <p className="text-4xl md:text-5xl text-[#F4A21D]">Experience</p>
                     <Position />
                 </div>

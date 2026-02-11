@@ -29,8 +29,8 @@ const Position: React.FC<{}> = () => {
                             <img width="125px" height="125px" src={value.logoUrl} alt="testing" />
                         </div>
                     </section>
-                    <section className="flex">
-                        <div className="w-1/3">
+                    {/* <section className="flex flex-col">
+                         <div className="pb-2">
                             <label className="text-lg underline">Projects:</label>
                             <select name="projects" id="projects" className="
                                 ml-4 
@@ -46,7 +46,7 @@ const Position: React.FC<{}> = () => {
                                 <option value="item4">Item4</option>
                             </select>
                         </div>
-                        <div className="w-2/3">
+                        <div>
                             <ul className="text-lg">
                                 <li>
                                     <span className="text-[#F4A21D]">Product Type:</span> Lorem ipsum dolor
@@ -65,7 +65,7 @@ const Position: React.FC<{}> = () => {
                                 </li>
                             </ul>
                         </div>
-                    </section>
+                    </section> */}
                 </div> 
             ))}
 
