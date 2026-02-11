@@ -7,8 +7,8 @@ import RedesignA from './Components/RedesignA/RedesignA.tsx';
 function App() {
     return (
         <Routes>
-            <Route path="/" element={<OldPage />} />
-            <Route path="/testpageA" element={<RedesignA />} />
+            <Route path="/" element={<RedesignA />} />
+            {/* <Route path="/testpageA" element={<RedesignB />} /> */}
         </Routes>
     )
 }

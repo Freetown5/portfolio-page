@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: 'Liter';
+    src: url('/public/newPage/fonts/Liter-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mogra';
+    src: url('/public/newPage/fonts/Mogra-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

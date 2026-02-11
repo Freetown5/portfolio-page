@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+/* src/App.css */
+
+.first-name-font {
+    font-family: 'Mogra', serif;
+}
+
+.last-name-font {
+    font-family: 'Liter', serif;
+}
+
+a {
+    color: #F4A21D;
+}
+
+a:hover {
+    color: #109AAC;
+    font-style: italic;
+}
+
