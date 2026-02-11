@@ -18,32 +18,32 @@ export const employmentData = [
                 project: 'Coaching App (Q4L program)',
                 productType:'web app',
                 audience: 'Residents of states and companies with public health programs.',
-                description: '',
-                quip: '',
+                description: 'A web application that houses several programs designed to help users (residents and clients) gain control of their health by losing weight, quitting smoking or manage a host of other issues.',
+                quip: 'This app was originally created by a Rally before it was aquired by Optum digital and spun off into RVO Health.',
                 toolsUsed: 'Angular 12, RxJs, NgRx, Contentful etc.'
             },
             {
                 project: 'Quit For Life Landing Page',
                 productType:'web app',
-                audience: 'Residents of states and companies looking to manage and cut down on general tobacco usage.',
-                description: '',
-                quip: '',
+                audience: 'Residents of states and customers of multiple comapanies and insurance provides.',
+                description: 'This is the web app that contains general information about the coaching applications program for quitting smoking. It also helps direct users to the correct version of the program for them based off of state and insurance provider information.',
+                quip: 'This page was originally built in wordpress before the company decided to transition to a more modern and secure architecture set up (Next.js/Netlify).',
                 toolsUsed: 'Next.JS (React), Typescript, Netlify, Github Actions, Google Translate, next-Intl, Tailwind CSS, Wordpress (old site), Javascript (old site)'
             },
             {
                 project: 'Live Vape Free Landing Page',
                 productType:'web app',
-                audience: 'Residents of states and companies looking to manage and cut down specifically on usage of vape products.',
-                description: '',
-                quip: '',
+                audience: 'Residents of different states and customers of several companies and insurance providers',
+                description: 'This web app contains general information about the coaching applications program for quitting vaping.',
+                quip: 'This was originally a static web page. It was converted to a Next.js application (on my recommendation), when an extra page that required multiple similar component was included in the redesign.',
                 toolsUsed: 'Next.JS (React), Typescript, Tailwind CSS, Netlify, Github Actions'
             },
             {
                 project: 'Coaching Client Configurations App',
                 productType:'web app',
-                audience: 'Commercial companies and state clients looking to customize the coaching app for their customers and residents.',
-                description: '',
-                quip: '',
+                audience: 'Commercial companies and state clients',
+                description: 'This is the web application used by account managers to help different companies and states to customize the coaching app for their customers and residents.',
+                quip: 'This was one of the few internal tools thats used primarily by workers instead of being direct to consumer.',
                 toolsUsed: 'React, Company UI Library, Redux'
             }
         ]
@@ -57,24 +57,24 @@ export const employmentData = [
         selectContent: [
             {
                 project: 'Rally Design System (RDS)',
-                productType:'',
-                audience: '',
+                productType:'UI Component Library',
+                audience: 'Front-end and Full-stack application engineers at Rally',
                 description: '',
                 quip: '',
                 toolsUsed: ''
             },
             {
                 project: 'Orion Design System',
-                productType:'',
-                audience: '',
+                productType:'UI Component Library',
+                audience: 'Front-end and Full-stack application engineers at Optum',
                 description: '',
                 quip: '',
                 toolsUsed: ''
             },
             {
                 project: 'Better.UI Design System',
-                productType:'',
-                audience: '',
+                productType:'UI Component Library',
+                audience: 'Front-end and Full-stack application engineers at Optum',
                 description: '',
                 quip: '',
                 toolsUsed: ''
